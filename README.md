@@ -1,3 +1,5 @@
+(C) Gekko
+
 # Mac OS Préparation de l’environnement de DEV Python
 
 ## Sommaire
@@ -45,13 +47,17 @@ pip install jupyter
 
 #### Installer le client Git
 
-RDV à cette adresse: [https://git-scm.com/](https://git-scm.com/)
+RDV à cette adresse: [Git](https://git-scm.com/)
 
-Configurer le compte (Github)
+#### - Configurer le compte (Github)
 
 Changer le terminal par défaut (oh-my-zsh)
 
 Utilisez l'editeur Emacs
 <http://www.linux-france.org/article/appli/emacs/tut/emacs-tut-3.html#ss3.1>
+
+Apprendre le MarkDown
+
+
 
 <!-- Docs to Markdown version 1.0β17 -->
