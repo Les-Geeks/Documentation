@@ -1,8 +1,6 @@
-# je corrige l'erreur
+
 
 ![Gekko](img/LOGO_GEKKO_LES-INGENIEURS-DU-CLOUD_RVB-1 copie.png)
-
-# Je rajoute une ligne
 
 # Mac OS Préparation de l’environnement de DEV Python
 
