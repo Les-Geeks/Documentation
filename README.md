@@ -2,7 +2,7 @@
 
 ## Sommaire
 
-### **<span style="text-decoration:underline;">Un peu de documentation</span>**
+### Un peu de documentation**
 
 [https://www.python.org/dev/peps/pep-3131/](https://www.python.org/dev/peps/pep-3131/)
 
@@ -18,16 +18,10 @@ RDV à cette adresse:
 
 ##### Installer pip3 et ou, le mettre à jour
 
-```bash
-#!/bin/bash
+```Bash
 pip3 install pip
 pip3 install --upgrade pip
 ```
-
-<table>
-  <tr>
-  </tr>
-</table>
 
 #### ipython
 
