@@ -23,15 +23,15 @@ pip3 install pip
 pip3 install --upgrade pip
 ```
 
-#### ipython
+##### ipython
 
-#### Installer ipython
+##### Installer ipython
 
 ```Bash
 pip3 install ipython
 ```
 
-##### **Installer Jupiter**
+##### Installer Jupiter
 
 ```Bash
 pip install jupyter
@@ -41,9 +41,9 @@ pip install jupyter
 
 [https://legacy.python.org/dev/peps/pep-0008/#descriptive-naming-styles](https://legacy.python.org/dev/peps/pep-0008/#descriptive-naming-styles)
 
-## Mettre en place le versionning (Git)
+### Mettre en place le versionning (Git)
 
-#####  Installer le client Git
+#### Installer le client Git
 
 RDV à cette adresse: [https://git-scm.com/](https://git-scm.com/)
 
