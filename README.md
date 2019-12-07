@@ -12,7 +12,7 @@
 
 >Telecharger Python 3 dernière version
 
-RDV à cette adresse:
+RDV à cette adresse: <https://www.python.org/download/releases/3.0/>
 
 #### pip3
 
