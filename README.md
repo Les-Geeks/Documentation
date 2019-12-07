@@ -1,5 +1,4 @@
 # je corrige l'erreur
-# je corige
 
 ![Gekko](img/LOGO_GEKKO_LES-INGENIEURS-DU-CLOUD_RVB-1 copie.png)
 
