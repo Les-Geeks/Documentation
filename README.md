@@ -22,7 +22,7 @@ RDV à cette adresse:
 #!/bin/bash
 pip3 install pip
 pip3 install --upgrade pip
-```gi
+```
 
 <table>
   <tr>
