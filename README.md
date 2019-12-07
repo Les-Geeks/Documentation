@@ -6,7 +6,7 @@
 
 # Mac OS Préparation de l’environnement de DEV Python
 
-## Sommaire
+### Sommaire
 
 ### Un peu de documentation
 
