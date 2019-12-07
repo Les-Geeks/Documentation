@@ -2,13 +2,13 @@
 
 ## Sommaire
 
-### Un peu de documentation**
+### Un peu de documentation
 
 [https://www.python.org/dev/peps/pep-3131/](https://www.python.org/dev/peps/pep-3131/)
 
 [http://www.unicode.org/reports/tr31/](http://www.unicode.org/reports/tr31/)
 
-### Installer Python, pip3, jupiter 
+### Installer Python, pip3, jupiter
 
 >Telecharger Python 3 dernière version
 
@@ -43,7 +43,7 @@ pip install jupyter
 
 ## Mettre en place le versionning (Git)
 
-##### Installer le client Git
+#####  Installer le client Git
 
 RDV à cette adresse: [https://git-scm.com/](https://git-scm.com/)
 
