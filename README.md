@@ -1,6 +1,8 @@
-# Mac OS Préparation de l’environnement de DEV Python
+# Formation
 
-![Gekko](https://github.com/Les-Geeks/Documentation/blob/master/img/LOGO_GEKKO_LES-INGENIEURS-DU-CLOUD_RVB-1%20copie.png)
+![Gekko](https://github.com/Les-Geeks/Documentation/blob/master/img/LOGO_GEKKO_LES-INGENIEURS-DU-CLOUD_RVB-1%20_import.png)
+
+## Mac OS Préparation de l’environnement de DEV Python
 
 ## Sommaire
 
