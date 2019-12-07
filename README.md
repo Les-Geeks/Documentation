@@ -1,6 +1,7 @@
-(C) Gekko
+(C)
 
-![Gekko](img/LOGO_GEKKO_LES-INGENIEURS-DU-CLOUD_RVB-1 copie.png/)
+je fais une modif
+![Gekko](img/LOGO_GEKKO_LES-INGENIEURS-DU-CLOUD_RVB-1 copie.png)
 
 # Mac OS Préparation de l’environnement de DEV Python
 
