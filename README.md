@@ -1,5 +1,7 @@
 (C) Gekko
 
+![Gekko](img/LOGO_GEKKO_LES-INGENIEURS-DU-CLOUD_RVB-1 copie.png)
+
 # Mac OS Préparation de l’environnement de DEV Python
 
 ## Sommaire
@@ -8,7 +10,7 @@
 
 [https://www.python.org/dev/peps/pep-3131/](https://www.python.org/dev/peps/pep-3131/)
 
-[http://www.unicode.org/reports/tr31/](http://www.unicode.org/reports/tr31/)
+[Unicode.org](http://www.unicode.org/reports/tr31/)
 
 ### Installer Python, pip3, jupiter
 
@@ -47,9 +49,9 @@ pip install jupyter
 
 #### Installer le client Git
 
-RDV à cette adresse: [Git](https://git-scm.com/)
+- RDV à cette adresse: [Git-scm](https://git-scm.com/)
 
-#### - Configurer le compte (Github)
+#### Configurer le compte (Github)
 
 Changer le terminal par défaut (oh-my-zsh)
 
