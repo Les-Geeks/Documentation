@@ -8,37 +8,38 @@
 
 [http://www.unicode.org/reports/tr31/](http://www.unicode.org/reports/tr31/)
 
-### ** Installer Python, pip3, jupiter **
+### Installer Python, pip3, jupiter 
 
 >Telecharger Python 3 dernière version
 
 RDV à cette adresse:
 
-#### **pip3**
+#### pip3
 
-##### **Installer pip3 et ou, le mettre à jour**
+##### Installer pip3 et ou, le mettre à jour
 
-```
+```bash
+#!/bin/bash
 pip3 install pip
 pip3 install --upgrade pip
-```
+```gi
 
 <table>
   <tr>
   </tr>
 </table>
 
-#### **ipython**
+#### ipython
 
-#### **Installer ipython**
+#### Installer ipython
 
-```
+```Bash
 pip3 install ipython
 ```
 
 ##### **Installer Jupiter**
 
-```
+```Bash
 pip install jupyter
 ```
 
@@ -48,7 +49,7 @@ pip install jupyter
 
 ## Mettre en place le versionning (Git)
 
-##### **Installer le client Git**
+##### Installer le client Git
 
 RDV à cette adresse: [https://git-scm.com/](https://git-scm.com/)
 
