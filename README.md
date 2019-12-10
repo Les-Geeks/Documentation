@@ -1,4 +1,4 @@
-<img src="img/create-repo-github.jpeg"> Formation Gekko !
+<img src="img/gekko.png"> Formation Gekko !
 
 
 |   Interne  |   Update   |     Authors     |
@@ -111,7 +111,7 @@ git push origin dev
 git remote add [mfp] [https://github.com/Les-Geeks/my-firt-project] :+1: 
 https://github.com/Les-Geeks/Documentation
 ```
-<img src="img/create-repo-github.jpeg">
+<img src="img/create-repo-github.png">
 
 #### Apprendre le MarkDown
 
