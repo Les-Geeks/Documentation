@@ -1,3 +1,4 @@
+
 <img src="img/gekko.png"> Formation Gekko !
 
 
@@ -7,23 +8,26 @@
 
 ---
 
-## LES PREREQUIS
+## Mac OS Préparation de l’environnement de DEV Python
+
+🖥
 
 ---
-🖥
-### Mac OS Préparation de l’environnement de DEV Python
 
-#### Un peu de documentation
+***Un peu de documentation*** 😁
 
 * https://www.python.org/dev/peps/pep-3131/
 
 * [Unicode.org](http://www.unicode.org/reports/tr31/)
 
+
 #### Installer Python, pip3, jupiter 
 
 * Telecharger Python 3 dernière version
 
-* RDV à cette adresse: <https://www.python.org/download/releases/3.0/>
+    * RDV à cette adresse: <https://www.python.org/download/releases/3.0/>
+
+---
 
 #### pip3
 
@@ -34,13 +38,12 @@ pip3 install pip
 pip3 install --upgrade pip
 ```
 
-##### ipython
-
 ##### Installer ipython
 
 ```Bash
 pip3 install ipython
 ```
+___
 
 ##### Installer Jupiter
 
@@ -48,7 +51,7 @@ pip3 install ipython
 pip install jupyter
 ```
 
-### Naming convention pour le langage Python
+##### Naming convention pour le langage Python
 
 [https://legacy.python.org/dev/peps/pep-0008/#descriptive-naming-styles](https://legacy.python.org/dev/peps/pep-0008/#descriptive-naming-styles)
 
@@ -91,7 +94,11 @@ Ensuite vous créer un nouveau fichiers --> README.md
 ```bash=
 touch md README.md 
 echo "my first commit" >> README.md
+
 ```
+---
+
+<img src="img/create-repo-github.png">
 
 ---
 
@@ -104,14 +111,15 @@ Et enchainé ces commandes
 ```bash=
 git add *
 git commit -m "my first commit"
-git push origin dev
 
 # Ensuite lancer git remote add [nomcourt] [url] :
+# Cela vous permettra de lier le repo local avec le repo distant
 
 git remote add [mfp] [https://github.com/Les-Geeks/my-firt-project] :+1: 
-https://github.com/Les-Geeks/Documentation
+git push origin dev
+
 ```
-<img src="img/create-repo-github.png">
+
 
 #### Apprendre le MarkDown
 
