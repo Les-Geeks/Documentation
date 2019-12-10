@@ -1,4 +1,3 @@
-
 # |<img src="images/LOGO_GEKKO_LES-INGENIEURS-DU-CLOUD_RVB-1_import.png" alt="Italian Trulli">| Formation Gekko !
 |------|
 
@@ -112,12 +111,14 @@ git push origin dev
 git remote add [mfp] [https://github.com/Les-Geeks/my-firt-project] :+1: 
 https://github.com/Les-Geeks/Documentation
 ```
-<img src="img/create-repo-github.jpeg" alt="Italian Trulli">
+<img src="img/create-repo-github.jpeg">
 
 #### Apprendre le MarkDown
 
 >Indispensable pour documenter vos projets open source  📺
 
+- HackMD
+- 
 
 
 <!-- Docs to Markdown version 1.0β17 -->
