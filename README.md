@@ -1,33 +1,40 @@
-# Formation
+<img src="img/create-repo-github.jpeg"> Formation Gekko !
 
-![Gekko](https://github.com/Les-Geeks/Documentation/blob/dev/img/LOGO_GEKKO_LES-INGENIEURS-DU-CLOUD_RVB-1_import.png)
 
-## Mac OS Préparation de l’environnement de DEV Python
+|   Interne  |   Update   |     Authors     |
+|:------------:|:----------:|:---------------:|
+| Presentation | 09/12/2019 | Laurent Marques |
 
-## Sommaire
+---
 
-### Un peu de documentation
+## LES PREREQUIS
 
-[https://www.python.org/dev/peps/pep-3131/](https://www.python.org/dev/peps/pep-3131/)
+---
+🖥
+### Mac OS Préparation de l’environnement de DEV Python
 
-[Unicode.org](http://www.unicode.org/reports/tr31/)
+#### Un peu de documentation
 
-### Installer Python, pip3, jupiter
+* https://www.python.org/dev/peps/pep-3131/
 
->Telecharger Python 3 dernière version
+* [Unicode.org](http://www.unicode.org/reports/tr31/)
 
-RDV à cette adresse: <https://www.python.org/download/releases/3.0/>
+#### Installer Python, pip3, jupiter 
+
+* Telecharger Python 3 dernière version
+
+* RDV à cette adresse: <https://www.python.org/download/releases/3.0/>
 
 #### pip3
 
 ##### Installer pip3 et ou, le mettre à jour
 
-> Tapez ces 2 lignes
-
 ```Bash
 pip3 install pip
 pip3 install --upgrade pip
 ```
+
+##### ipython
 
 ##### Installer ipython
 
@@ -53,19 +60,65 @@ pip install jupyter
 
 #### Configurer le compte (Github)
 
-> Taper ces 2 commandes pour associer votre compte Github
+```bash=
+git config --global user.name "FIRST_NAME LAST_NAME"
+git config --global user.email "MY_NAME@example.com"
+```
+---
 
-```Bash
-git config --global user.name "John Doe"
-git config --global user.email johndoe@example.com
+#### Changer le terminal par défaut (oh-my-zsh)
+
+- Utilisez l'editeur Emacs
+    - <http://www.linux-france.org/article/appli/emacs/tut/emacs-tut-3.html#ss3.1>
+
+---
+
+2. #### Créer son premier repo sur Github
+
+    
+Se placer sur le repertoire courant, celui devra avoir le nom du projet Github come par exemple: 
+
+
+> * **my-first project** :+1: 
+
+
+```bash=
+git init 
+git checkout -b dev 
+```
+Ensuite vous créer un nouveau fichiers --> README.md
+
+```bash=
+touch md README.md 
+echo "my first commit" >> README.md
 ```
 
+---
 
-Changer le terminal par défaut (oh-my-zsh)
+#### Mon premier commit
 
-Utilisez l'editeur Emacs
-<http://www.linux-france.org/article/appli/emacs/tut/emacs-tut-3.html#ss3.1>
+Connecter sur votre dashboard en ligne Github
+et créer un nouveau repositories portant le même nom que celui du dossier local.
+Et enchainé ces commandes
 
-Apprendre le MarkDown
+```bash=
+git add *
+git commit -m "my first commit"
+git push origin dev
+
+# Ensuite lancer git remote add [nomcourt] [url] :
+
+git remote add [mfp] [https://github.com/Les-Geeks/my-firt-project] :+1: 
+https://github.com/Les-Geeks/Documentation
+```
+<img src="img/create-repo-github.jpeg">
+
+#### Apprendre le MarkDown
+
+>Indispensable pour documenter vos projets open source  📺
+
+- HackMD
+- 
+
 
 <!-- Docs to Markdown version 1.0β17 -->
