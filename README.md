@@ -10,18 +10,18 @@
 
 ## Mac OS Préparation de l’environnement de DEV Python
 
-🖥
+🖥 [Version slide cliquez ici !](https://hackmd.io/@metalfrags/HJJVvw36r) 
 
 ---
 
-***Un peu de documentation*** 😁
+### Un peu de documentation 😁
 
 * https://www.python.org/dev/peps/pep-3131/
 
 * [Unicode.org](http://www.unicode.org/reports/tr31/)
 
 
-#### Installer Python, pip3, jupiter 
+### Installer Python, pip3, jupiter 
 
 * Telecharger Python 3 dernière version
 
@@ -29,7 +29,7 @@
 
 ---
 
-#### pip3
+### pip3
 
 ##### Installer pip3 et ou, le mettre à jour
 
@@ -38,20 +38,20 @@ pip3 install pip
 pip3 install --upgrade pip
 ```
 
-##### Installer ipython
+**Installer ipython**
 
 ```Bash
 pip3 install ipython
 ```
 ___
 
-##### Installer Jupiter
+**Installer Jupiter**
 
 ```Bash
 pip install jupyter
 ```
 
-##### Naming convention pour le langage Python
+**Naming convention pour le langage Python**
 
 [https://legacy.python.org/dev/peps/pep-0008/#descriptive-naming-styles](https://legacy.python.org/dev/peps/pep-0008/#descriptive-naming-styles)
 
@@ -119,14 +119,40 @@ git remote add [mfp] [https://github.com/Les-Geeks/my-firt-project] :+1:
 git push origin dev
 
 ```
+---
 
 
-#### Apprendre le MarkDown
 
->Indispensable pour documenter vos projets open source  📺
 
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+<b>Tips</b>
+> [name=metalfrags] 
+> [time=Tue, Dec 10, 2019 2:55 AM]
+
+
+
+Vérifier sur votre compte Github en ligne et normalement le fichier README.md existera aussi sur sa version distante     |
+
+
+
+---
+
+
+#### Allez plus loin ! Apprendre le MarkDown
+
+>Indispensable pour documenter ces projets open source  📺
+
+Listing des ressources
 - HackMD
-- 
+    - [lien1]()
+    - [lien2]()
+
+Listing des outils
+- HackMD "J'adore cette outil" 😍
+- A very good documentation
+- Git
+- And Visual Studio Code 
 
 
 <!-- Docs to Markdown version 1.0β17 -->
